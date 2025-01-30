@@ -5,7 +5,7 @@
 >
 	<a xlink:href="https://github.com/pumpncode/bibliopol">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/bibliopol/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/bibliopol/base.svg"
 			width="80"
 			height="80"
 			x="10"
@@ -14,7 +14,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/eoe">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/eoe/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/eoe/base.svg"
 			width="80"
 			height="80"
 			x="110"
@@ -23,7 +23,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/flatrate">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/flatrate/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/flatrate/base.svg"
 			width="80"
 			height="80"
 			x="210"
@@ -32,7 +32,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/howt">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/howt/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/howt/base.svg"
 			width="80"
 			height="80"
 			x="310"
@@ -41,7 +41,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/lerc">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/lerc/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/lerc/base.svg"
 			width="80"
 			height="80"
 			x="10"
@@ -50,7 +50,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/logos">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/logos/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/logos/base.svg"
 			width="80"
 			height="80"
 			x="110"
@@ -59,7 +59,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/repoco">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/repoco/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/repoco/base.svg"
 			width="80"
 			height="80"
 			x="210"
@@ -68,7 +68,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/schrel">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/schrel/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/schrel/base.svg"
 			width="80"
 			height="80"
 			x="310"
@@ -77,7 +77,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/standards">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/standards/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/standards/base.svg"
 			width="80"
 			height="80"
 			x="10"
@@ -86,7 +86,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/template">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/template/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/template/base.svg"
 			width="80"
 			height="80"
 			x="110"
@@ -95,7 +95,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/upkeep">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/upkeep/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/upkeep/base.svg"
 			width="80"
 			height="80"
 			x="210"
@@ -104,7 +104,7 @@
 	</a>
 	<a xlink:href="https://github.com/pumpncode/website">
 		<image
-			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/website/base.svg"
+			xlink:href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/website/base.svg"
 			width="80"
 			height="80"
 			x="310"
