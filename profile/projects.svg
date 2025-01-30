@@ -1,0 +1,114 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 400 300"
+>
+	<a xlink:href="https://github.com/pumpncode/bibliopol">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/bibliopol/base.svg"
+			width="80"
+			height="80"
+			x="10"
+			y="10"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/eoe">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/eoe/base.svg"
+			width="80"
+			height="80"
+			x="110"
+			y="10"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/flatrate">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/flatrate/base.svg"
+			width="80"
+			height="80"
+			x="210"
+			y="10"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/howt">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/howt/base.svg"
+			width="80"
+			height="80"
+			x="310"
+			y="10"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/lerc">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/lerc/base.svg"
+			width="80"
+			height="80"
+			x="10"
+			y="110"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/logos">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/logos/base.svg"
+			width="80"
+			height="80"
+			x="110"
+			y="110"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/repoco">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/repoco/base.svg"
+			width="80"
+			height="80"
+			x="210"
+			y="110"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/schrel">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/schrel/base.svg"
+			width="80"
+			height="80"
+			x="310"
+			y="110"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/standards">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/standards/base.svg"
+			width="80"
+			height="80"
+			x="10"
+			y="210"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/template">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/template/base.svg"
+			width="80"
+			height="80"
+			x="110"
+			y="210"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/upkeep">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/upkeep/base.svg"
+			width="80"
+			height="80"
+			x="210"
+			y="210"
+		/>
+	</a>
+	<a xlink:href="https://github.com/pumpncode/website">
+		<image
+			href="https://github.com/pumpncode/logos/raw/refs/heads/main/projects/website/base.svg"
+			width="80"
+			height="80"
+			x="310"
+			y="210"
+		/>
+	</a>
+</svg>
